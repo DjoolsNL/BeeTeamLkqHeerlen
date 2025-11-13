@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+    font-size: 1.2rem;
+    line-height: 1.6;
+    background-color: #ffffff;
+}
+
+header, .site-header {
+    position: sticky; /* Toggles between relative and fixed positioning */
+    top: 0;           /* Sticks to the top of the viewport when scrolled to this position */
+    background-color: #e4f0f4; /* Ensure the header has a background so content doesn't show through */
+    color: rgb(0, 0, 0);
+    padding: 1em;
+    z-index: 100;     /* Ensures the header appears above other content */
+    width: 100%;
+
+}
+
+main {
+    padding: 10px 35pc 15pc 10pc; 
+}
+
+.hoofdstuk {
+   background-color: white;
+   /* border:1px solid gray; 
+   margin-bottom: 20px; */
+}
+
+div {
+   background-color: rgb(227, 245, 244);
+   padding: 5px 40px 5px;
+} 
+
+.dark {
+      background-color: rgb(227, 245, 244);
+   padding: 5px 20px 5px;
+}
+
+.light {
+      background-color: rgb(237, 239, 247);
+   padding: 5px 20px 5px;
+} 
+
+li {
+   padding: 5px 20px 5px;
+}
+
+.red {
+   background-color: rgb(207, 168, 179);
+   padding: 5px 20px 5px;
+} 
+
+iframe {
+   border:0px;
+}
+
+a:link {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+
+}
+a:visited {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+
+}
+
+pre {
+   background-color: rgb(211, 211, 211);
+}
+
