@@ -10,7 +10,7 @@
 
 <body>
    <header>
-      <a href="../html/index.html">Bee Team LKQ - Home</a> | <a href="template.html">Template</a>
+      <a href="../html/index.html">Bee Team LKQ</a> | <a href="template.html">Template</a>
    </header>
 
    <main>
