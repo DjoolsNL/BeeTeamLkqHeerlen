@@ -12,9 +12,11 @@ header, .site-header {
     background-color: rgb(227, 238, 245); /* Ensure the header has a background so content doesn't show through */
     color: rgb(0, 0, 0);
     padding: 1em;
+    /* padding-left: 5pc; */
     z-index: 100;     /* Ensures the header appears above other content */
     width: 100%;
     border-bottom: 1px solid grey;
+    font-size: 1rem;
 
 }
 
