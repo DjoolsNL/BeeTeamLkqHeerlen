@@ -1,0 +1,111 @@
+ChatGPT
+
+----------------------------------------------------------------------------------
+
+Opdracht - ToolSkills omgaan met ChatGPT/Gemini
+
+De OPDRACHT
+Vraag ChatGPT/Gemini:
+- Wat kan ik je allemaal vragen?
+- Waar ben je goed in?
+- Hoe kan je me helpen?
+- Wat zijn slimme vragen waarmee ik het beste uit je kan halen?
+- Met welke instructies die ik je geven kan krijg ik de beste resultaten?
+- Kun je me alle info die je me tot nu toe hebt gegeven ook in het Engels 
+geven?
+- Leg me uit wat het Playwright testframework doet en wat end-to-end testen 
+is. Ga er bij je antwoord van uit dat ik 15 jaar ben en niets van IT afweet.
+
+WAAROM
+ChatGPT/Gemini is je persoonlijke leraar die 24 uur per dag klaar staat om je
+vragen te beantwoorden. Hij weet heel veel van allerlei programmeertalen
+en van IT. Je kunt hem code 'voeren' en hij legt je uit wat die code precies doet.
+Je kunt hem ook vragen code te schrijven maar dan moet je wel specifiek omschrijven
+wat die code moet doen. 
+
+Hoe beter je leert de juiste vragen te stellen hoe meer je uit deze AI haalt.
+
+Kijk ook in de map B1 Week1/Ter Ondersteuning. Daar staan tips hoe je de beste 
+resultaten met ChatGPT/Gemini krijgt.
+
+ChatGPT: vragen over testen en quality assurance
+
+----------------------------------------------------------------------------------
+
+OPDRACHT
+Stel de volgende vragen aan chatGPT en bestudeer de antwoorden:
+1. Wat is de functie van testen in de IT branche?
+2. Wat is quality assurance en wat is de relatie met testen?
+3. Wat is end-to-end testing?
+4. Waarom is manueel testen nog steeds belangrijk?
+5. Wat is het voordeel van geautomatiseerd testen?
+6. Wat wordt met de happy flow bedoeld in het kader van testen?
+7. Welke testframeworks voor web zijn er en wat zijn de belangrijkste?
+8. Welke rol kan AI in het testen van web gaan spelen?
+9. Wat is de samenhang tussen een browser, html en TypeScript?
+10. Wat is een server?
+11. Wat is interactiviteit en dynamisch gedrag van webpagina's?
+12. Wat is een TypeScript-engine?
+13. Hoe ziet een simpele html pagina eruit?
+14. Wat zijn de belangrijkste HTML elementen?
+15. Moet elk html element gesloten worden?
+16. Dus html bevat zowel structuur en opmaak als inhoud?
+19. Wat is een browser?
+20. Dus een browser laat een webpagina zien door de HTML code en de CSS code van 
+de webpagina op te vragen op de server waar de website staat en geeft dan de pagina 
+weer op mijn lokale pc?
+
+
+
+
+
+WAAROM
+Enerzijds leer je van de antwoorden, anderzijds leer je met AI om te gaan.
+
+
+
+ChatGpt
+
+----------------------------------------------------------------------------------
+
+Lees de onderstaande conversatie met ChatGTP goed door. Probeer de tips die chatGPT
+geeft te begrijpen en toe te passen als je hem gebruikt.   
+
+User:
+Ik ben een programma aan het maken voor cursisten die nog nooit met jou hebben gewerkt
+
+ChatGPT:
+Dat klinkt als een interessant project! Als je een programma maakt voor cursisten die nog 
+nooit met mij hebben gewerkt, zou je kunnen overwegen om de volgende stappen te integreren:
+
+Introductie: Begin met een duidelijke introductie over wie of wat ik ben en wat mijn 
+mogelijkheden zijn. Leg uit hoe ik kan helpen en welke soorten vragen ik kan beantwoorden.
+
+Voorbeelden: Geef concrete voorbeelden van vragen die cursisten kunnen stellen en hoe ze 
+deze het beste kunnen formuleren om nauwkeurige antwoorden te krijgen.
+
+Instructies voor heldere vragen: Leer cursisten hoe ze specifieke en duidelijke vragen kunnen 
+stellen. Moedig hen aan om context te bieden wanneer dat nodig is.
+
+Tips voor optimalisatie: Geef tips over hoe ze het meeste uit de interactie met mij kunnen 
+halen, zoals het opsplitsen van complexe vragen in eenvoudigere stappen.
+
+Feedback: Leg uit hoe cursisten feedback kunnen geven over de ontvangen antwoorden, 
+zodat ze beter begrijpen hoe ze de communicatie kunnen verbeteren.
+
+Praktische toepassingen: Toon praktische voorbeelden van hoe mijn assistentie kan worden toegepast
+in hun studie, werk of dagelijkse leven.
+
+Door deze elementen toe te voegen, help je cursisten effectiever en zelfverzekerder met mij te 
+communiceren. Als je specifieke vragen hebt over hoe je bepaalde aspecten van je programma kunt 
+vormgeven, laat het me dan gerust weten!
+
+User:
+Precies! Ze moeten leren in jouw taal te praten. Jij probeert natuurlijk ook hun taal te begrijpen. 
+
+ChatGPT:
+Absoluut, dat is een goede manier om het te bekijken. Het is inderdaad een tweerichtingsproces. 
+Cursisten kunnen leren hoe ze hun vragen duidelijk en specifiek kunnen stellen, terwijl ik mijn 
+best doe om hun vragen zo accuraat mogelijk te begrijpen en te beantwoorden. Het uiteindelijke 
+doel is een effectieve en productieve communicatie.
+
