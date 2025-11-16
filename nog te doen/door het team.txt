@@ -1,0 +1,9 @@
+1. test de site kijk of de layout en styling consistent is.
+
+2. klik alle links en kijk of ze werken en of je bij de juiste info uitkomt. 
+
+3. klik ook de links binnen pagina's.
+
+4. Let op spelfouten. 
+
+5. 
