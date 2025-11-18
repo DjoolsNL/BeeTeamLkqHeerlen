@@ -120,6 +120,18 @@
          background-color: transparent;
       }
 
+      .flexwrap {
+            display: flex; 
+            justify-content:center;
+            flex-wrap: wrap;
+      }   
+
+      .rapmobile {
+            display: flex; 
+            justify-content:center;
+            flex-wrap: nowrap;
+      }         
+
       .quicklinks {
          margin-bottom: 0px;
          border: 1px solid gray;
@@ -136,10 +148,14 @@
          header {
             font-size: 3vw;
          }
-
          main {
             padding-left: 4vw;
             padding-right: 4vw;
+         }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
          }
       }
       
@@ -152,6 +168,11 @@
             padding-left: 4vw;
             padding-right: 4vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 500px) {
@@ -165,6 +186,11 @@
             padding-left: 2vw;
             padding-right: 2vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 600px) {
@@ -178,6 +204,11 @@
             padding-left: 2.3vw;
             padding-right: 2.3vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 700px) {
@@ -191,6 +222,11 @@
             padding-left: 3.5w;
             padding-right: 3.5vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 800px) {
@@ -204,6 +240,11 @@
             padding-left: 4.8vw;
             padding-right: 4.8vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 900px) {
@@ -217,6 +258,11 @@
             padding-left: 6.1vw;
             padding-right: 6.1vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 1000px) {
@@ -231,6 +277,11 @@
             padding-left: 9vw;
             padding-right: 9vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 1100px) {
@@ -245,6 +296,11 @@
             padding-left: 14vw;
             padding-right: 14vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: wrap;
+         }         
       }
 
       @media screen and (min-width: 1200px) {
@@ -262,6 +318,11 @@
          footer {
             font-size: 1vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: nowrap;
+         }         
       }
 
        @media screen and (min-width: 1700px) {
@@ -275,6 +336,11 @@
             padding-left: 19vw;
             padding-right: 19vw;
          }
+         .rapmobile {
+             display: flex; 
+             justify-content:center;
+             flex-wrap: nowrap;
+         }         
 
          .quicklink-container {
             display: flex; justify-content:center; 
