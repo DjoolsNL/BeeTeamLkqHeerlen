@@ -21,7 +21,11 @@
          /* padding: 10px 35pc 1pc 10pc;  */
       }
 
+      hr {
+         color: #bebebe;
+      }
       header {
+         text-decoration: none;
          position: sticky;
          /* Toggles between relative and fixed positioning */
          top: 0;
@@ -39,20 +43,27 @@
 
       }
 
+      .centreren {
+         display:flex; 
+         justify-content: center;
+      }
+
       h1 {
-         border-top: 2px solid rgb(31, 32, 34);
+         border-top: 2px solid #bebebe;;
          padding-top: 10px;
 
          padding-bottom: 10px;
-         border-bottom: 2px solid rgb(28, 31, 40);
+         border-bottom: 2px solid #bebebe;
          /* background-color: #085CF0; */
          color: #000000;
 
       }
 
       footer {
+         padding-left: 2vw;
+         padding-right: 2vw;
          font-size: 1.2vw;
-         padding: 1vw;
+         
       }
 
 
@@ -89,7 +100,8 @@
          padding: 5px 20px 5px;
       }
 
-      iframe {
+
+      .embedded-content {
          border: 3px solid rgb(143, 170, 186);
          padding: 1em;
          /* width: auto; */
@@ -118,13 +130,16 @@
       } 
 
       @media screen and (min-width: 300px) {
-         body, header {
+         body {
             font-size: 4vw;
+         }
+         header {
+            font-size: 3vw;
          }
 
          main {
-            padding-left: 2vw;
-            padding-right: 2vw;
+            padding-left: 4vw;
+            padding-right: 4vw;
          }
       }
       
@@ -134,8 +149,8 @@
          }
 
          main {
-            padding-left: 2vw;
-            padding-right: 2vw;
+            padding-left: 4vw;
+            padding-right: 4vw;
          }
       }
 
@@ -146,7 +161,7 @@
             font-size: 2.7vw;
          }
 
-         main {
+         main, .footer {
             padding-left: 2vw;
             padding-right: 2vw;
          }
@@ -159,7 +174,7 @@
             font-size: 2.3vw;
          }
 
-         main {
+         main, footer, .footer {
             padding-left: 2.3vw;
             padding-right: 2.3vw;
          }
@@ -172,7 +187,7 @@
             font-size: 2.0vw;
          }
 
-         main {
+         main, footer, .footer {
             padding-left: 3.5w;
             padding-right: 3.5vw;
          }
@@ -185,7 +200,7 @@
             font-size: 1.8vw;
          }
 
-         main {
+         main, footer, .footer {
             padding-left: 4.8vw;
             padding-right: 4.8vw;
          }
@@ -198,7 +213,7 @@
             font-size: 1.6vw;
          }
 
-         main {
+         main, footer, .footer {
             padding-left: 6.1vw;
             padding-right: 6.1vw;
          }
@@ -211,7 +226,8 @@
             font-size: 1.4vw;
          }
 
-         main {
+         main, footer, .footer {
+            font-size: 1.3vw;
             padding-left: 9vw;
             padding-right: 9vw;
          }
@@ -224,26 +240,46 @@
             font-size: 1.2vw;
          }
 
-         main {
+         main, footer, .footer {
+            font-size: 1.2vw;
             padding-left: 14vw;
             padding-right: 14vw;
          }
       }
 
       @media screen and (min-width: 1200px) {
-
          body,
          header {
             font-size: 1.0vw;
          }
 
-         main {
+         main, footer, .footer {
+            font-size: 1.1vw;
             padding-left: 19vw;
             padding-right: 19vw;
          }
 
+         .quicklink-container {
+            /* display: flex; justify-content:center;  */
+         }
          footer {
             font-size: 1vw;
-            padding: 1vw;
          }
+      }
+
+       @media screen and (min-width: 1700px) {
+         body,
+         header {
+            font-size: 0.9vw;
+         }
+
+         main, footer, .footer {
+            font-size: 1.1vw;
+            padding-left: 19vw;
+            padding-right: 19vw;
+         }
+
+         .quicklink-container {
+            display: flex; justify-content:center; 
+         }         
       }
