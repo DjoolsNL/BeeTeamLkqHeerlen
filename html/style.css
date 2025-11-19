@@ -1,91 +1,53 @@
       body {
-         /* display: flex; */
          justify-content: center;
          font-family: sans-serif;
          font-size: 1.2vw;
-         /* font-size: 1.2rem; */
          line-height: 1.6;
          background-color: #ffffff;
          margin: 0px;
          background-image: url("../media/beebgrustiger.png");
-         /* background-position: center center; */
-         /* background-size: cover; */
       }
 
+      header {
+         text-decoration: none;
+         position: sticky;
+         top: 0;
+         background-color: rgb(227, 238, 245);
+         color: rgb(0, 0, 0);
+         padding: 1em;
+         z-index: 100;
+         width: 100%;
+         border-bottom: 1px solid grey;
+         font-size: 2vw;
+      }
+
+      nav a {
+         text-decoration: none;
+      }
+      
       main {
          padding-left: 2vw;
          padding-right: 2vw;
          padding-bottom: 10%;
-         /* Shorthand for horizontal centering: */
          margin: 0 auto;
-         /* padding: 10px 35pc 1pc 10pc;  */
-      }
-
-      hr {
-         color: #bebebe;
-      }
-      header {
-         text-decoration: none;
-         position: sticky;
-         /* Toggles between relative and fixed positioning */
-         top: 0;
-         /* Sticks to the top of the viewport when scrolled to this position */
-         background-color: rgb(227, 238, 245);
-         /* Ensure the header has a background so content doesn't show through */
-         color: rgb(0, 0, 0);
-         padding: 1em;
-         /* padding-left: 5pc; */
-         z-index: 100;
-         /* Ensures the header appears above other content */
-         width: 100%;
-         border-bottom: 1px solid grey;
-         font-size: 2vw;
-
-      }
-
-      .centreren {
-         display:flex; 
-         justify-content: center;
-         /* padding: 1em; */
-         background-color: lightsteelblue;
-      }
-
-      h1 {
-         border-top: 2px solid #bebebe;;
-         padding-top: 10px;
-
-         padding-bottom: 10px;
-         border-bottom: 2px solid #bebebe;
-         /* background-color: #085CF0; */
-         color: #000000;
-
       }
 
       footer {
          padding-left: 2vw;
          padding-right: 2vw;
-         font-size: 1.2vw;
-         
+         font-size: 1.2vw;         
       }
 
-
-
-
-
-      .introduction {
-         background-color: rgb(227, 238, 245);
-         padding: 15px 40px 15px;
+      h1 {
+         border-top: 2px solid #bebebe;;
+         padding-top: 10px;
+         padding-bottom: 10px;
+         border-bottom: 2px solid #bebebe;
+         color: #000000;
       }
 
-      .dark {
-
-         background-color: rgb(227, 238, 245);
-         padding: 5px 20px 5px;
-      }
-
-      .light {
-
-         padding: 5px 20px 5px;
+      hr {
+         color: #bebebe;
       }
 
       li {
@@ -93,30 +55,41 @@
          padding: 5px 20px 5px;
       }
 
-      .red {
-         background-color: rgb(207, 168, 179);
-         padding: 5px 20px 5px;
-      }
-
-
-      .embedded-content {
-         border: 3px solid rgb(143, 170, 186);
-         border-style: dashed;
-         padding: 0.5em;
-         /* width: auto; */
-         width: 95%;
-         height: 800px;
-      }
-
       a:link {
          color: rgb(0, 0, 0);
          background-color: transparent;
-
       }
 
       a:visited {
          color: rgb(0, 0, 0);
          background-color: transparent;
+      }
+
+      .linkbox {
+         width: 250px;
+      }
+      .centreren {
+         display:flex; 
+         justify-content: center;
+         background-color: lightsteelblue;
+      }
+
+      .introduction {
+         background-color: rgb(227, 238, 245);
+         padding: 15px 40px 15px;
+      }
+
+      .dark {
+         background-color: rgb(227, 238, 245);
+         padding: 5px 20px 5px;
+      }
+
+      .embedded-content {
+         border: 3px solid rgb(143, 170, 186);
+         border-style: dashed;
+         padding: 0.5em;
+         width: 95%;
+         height: 800px;
       }
 
       .flexwrap {
