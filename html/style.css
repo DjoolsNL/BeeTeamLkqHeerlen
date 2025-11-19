@@ -75,7 +75,7 @@
       }
 
       .introduction {
-         background-color: rgb(227, 238, 245);
+         background-color:  rgb(227, 238, 245);
          padding: 15px 40px 15px;
       }
 
@@ -85,11 +85,11 @@
       }
 
       .embedded-content {
-         border: 3px solid rgb(143, 170, 186);
-         border-style: dashed;
+         border: none;
          padding: 0.5em;
-         width: 95%;
-         height: 800px;
+         /* width: 95%;
+         height: 800px; */
+         width: 50vw; height:33vw
       }
 
       .flexwrap {

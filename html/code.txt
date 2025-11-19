@@ -10,7 +10,7 @@
 
 <body>
    <header>
-      <a href="../html/index.html">Bee Team LKQ</a>  -   <a href="template.html">Template</a>
+      <a href="../html/index.html">Home</a>  -   <a href="template.html">Template</a>
    </header>
 
    <main>
@@ -27,11 +27,11 @@
 <body>
    <header>
       <nav>
-         <a href="../index.html">Bee Team LKQ</a>  -  
-         <a href="../index.html#Leerbedrijf" style="text-decoration:none;">Leerbedrijf</a>  -  
-         <a href="../index.html#Educatief" style="text-decoration:none;">Educatief</a>  -  
-         <a href="../index.html#Baanperspectief" style="text-decoration:none;">Baanperspectief</a>  -  
-         <a href="../index.html#Templates" style="text-decoration:none;">Templates</a>
+         <a href="../index.html">Home</a>  -  
+         <a href="../index.html#Leerbedrijf">Leerbedrijf</a>  -  
+         <a href="../index.html#Educatief">Educatief</a>  -  
+         <a href="../index.html#Baanperspectief">Baanperspectief</a>  -  
+         <a href="../index.html#Templates">Templates</a>
       </nav>      
    </header>
 
@@ -43,7 +43,7 @@
                   Team LKQ</a>.
          </p>
          <p>
-            Het onderwerp dat voor deze template is gekozen is het project Bee Team LKQ in Heerlen.
+            Het onderwerp dat voor deze template is gekozen is het project Home in Heerlen.
          </p>
          <p>
             Zoals de hele site een template is voor een website, zo is deze pagina 'template.html' een pagetemplate die
@@ -111,7 +111,7 @@
       <p>
          Dit is een template website die door cursisten naar eigen inzicht gebruikt kan worden.
          <br>
-         Inhoudelijk vertelt de website over het project Bee Team LKQ.
+         Inhoudelijk vertelt de website over het project Home.
       </p>
       <p>
          Zoals de hele site een template is voor een website, zo is deze pagina template.html een template die laat zien hoe  content van een webpagina gestructureerd kan worden. Deze template is slechts een voorbeeld. De stijl ervan is bewust sober en zakelijk gehouden. De template voor deze pagina is ook weer gebruikt voor alle andere pagina's.
