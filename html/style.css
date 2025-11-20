@@ -111,8 +111,15 @@
 
       .textlinks {
          text-align: center;
-      }       
+      }
+      
+      .textlinks a {
+         text-decoration: none;
+      }
 
+      .textlinks a:hover {
+         text-decoration: underline;
+      }
       .introduction {
          background-color: rgb(227, 238, 245);
          padding: 15px 40px 15px;
