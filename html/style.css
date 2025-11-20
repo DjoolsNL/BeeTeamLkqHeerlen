@@ -65,6 +65,30 @@
          background-color: transparent;
       }
 
+      .tooltip {
+         cursor: pointer;
+         position: relative;
+      }
+
+      .tooltiptext {
+         visibility: hidden;
+         width: 130px;
+         background-color: black;
+         color: #ffffff;
+         text-align: center;
+         border-radius: 6px;
+         padding: 5px 0;
+         position: absolute;
+         z-index: 1;
+         bottom: 100%;
+         left: 65%;
+         margin-left: -65px;
+      }
+
+      .textlinks:hover .tooltiptext {
+         visibility: visible;
+      }
+
       .linkbox {
          width: 250px;
       }
@@ -74,8 +98,18 @@
          background-color: lightsteelblue;
       }
 
+      .quicklinks {
+         margin-bottom: 0px;
+         border: 1px solid gray;
+         border-radius: 2px;
+      }
+
+      .textlinks {
+         text-align: center;
+      }       
+
       .introduction {
-         background-color:  rgb(227, 238, 245);
+         background-color: rgb(227, 238, 245);
          padding: 15px 40px 15px;
       }
 
@@ -103,15 +137,6 @@
             justify-content:center;
             flex-wrap: nowrap;
       }         
-
-      .quicklinks {
-         margin-bottom: 0px;
-         border: 1px solid gray;
-      }
-
-      .textlinks {
-         text-align: center;
-      } 
 
       @media screen and (min-width: 300px) {
          body {
