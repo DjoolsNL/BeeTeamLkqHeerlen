@@ -1,27 +1,3 @@
-https://www.lambdatest.com/learning-hub/glossary#m1
-https://www.functionize.com/blog/a-glossary-of-testing-terms
-
-Terminal commands
-// run test (zonder browser)::
-npx playwright test
-
-// run in browser
-npx playwright test --headed
-
-// run in browser in different browser
-npx playwright test --headed --project=chromium
-
-//run in UI mode
-npx playwright test --ui
-
-// run 1 file headless (zonder browser):
-npx playwright test tests/K06_gaia.spec.ts 
-
-// run files in bepaalde folder headless:
-npx playwright test tests/K06_gaia.spec.ts
-
-
-
 Begrippenlijst:
 Ad hoc testing
 is unplanned, random testing that tries to break your application. Sometimes, ad hoc testing is referred to as “monkey testing” since it is likened to monkeys randomly pressing buttons. However, this is unfair. While ad hoc testing is unplanned, it is focussed. A skilled ad hoc tester will know how to trip systems up and will try all these tricks to cause the system to fail.
