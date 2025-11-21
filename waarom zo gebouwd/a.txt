@@ -1,15 +1,66 @@
 
-De site: 
-1. een digitaal visitekaartje naar alle kanten toe met relevante en representatieve content over Bee LKQ,
-2. een template project voor deelnemers.
++++   De site: 
+      1. een digitaal visitekaartje naar alle kanten toe met relevante en representatieve content over Bee LKQ,
+      2. een template project voor deelnemers die naar eigen inzicht gebruikt mag worden.
 
-Gebouwd met alleen css en html. Voor webtesters zeer relevante talen en zeker ook voor web frontend mensen.
-Wie deze template wil gebruiken leert eerst het handwerk. Html en css zijn prima instappers. 
-Je leert twee redelijk eenvoudige computertalen die je helpen om andere talen sneller te leren.     
+      Gebouwd met alleen css en html. Voor web-testers zeer relevante talen en zeker ook voor web-frontend mensen.
+      Wie deze template wil gebruiken leert eerst het handwerk. Html en css zijn prima instappers. 
+      Je leert twee redelijk eenvoudige computertalen die je helpen om andere talen sneller te leren.     
 
-Mappenstructuur en indexpagina:
-In de main van de indexpagina zijn de links per onderwerp gegroepeerd. Die indeling zie je ook 
-in de map html terug. 
++++   Mappenstructuur en indexpagina:
+      In de main van de indexpagina zijn de links per onderwerp gegroepeerd. Die indeling zie je ook 
+      in de map html terug. 
 
-De media in de mappenstructuur zijn op soort ingedeeld. 
+      De media in de mappenstructuur zijn op soort media ingedeeld. 
+
++++   Elke pagina volgt de onderstaande structuur:
+
+         <!DOCTYPE html>
+         <html lang="nl">
+
+         <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link rel="stylesheet" href="style.css">
+            <title>PLACEHOLDER</title>
+         </head>
+
+         <body>
+
+            <header>
+               <nav>
+                  <a href="../index.html">Home</a> -
+                  <a href="../index.html#Leerbedrijf">Leerbedrijf</a> -
+                  <a href="../index.html#Educatief">Educatief</a> -
+                  <a href="../index.html#Baanperspectief">Baanperspectief</a> -
+                  <a href="../index.html#Portfolio">Portfolio</a> -
+                  <a href="../index.html#Templates">Templates</a>
+               </nav>
+            </header>
+
+            <main>
+               <h1>PLACEHOLDER TITEL</h1>
+               <div class="introduction">
+                  PLACEHOLDER CONTENT      
+               </div>
+
+               <hr>
+               <h2>PLACEHOLDER VOOR HOOFDSTUKKEN</h2>
+               <div class="hoofdstuk" id="PLACEHOLDER">
+                  PLACEHOLDER CONTENT         
+               </div>
+            </main>
+
+            <footer>
+               PLACEHOLDER CONTENT
+            </footer>
+
+         </body>
+
+         </html>
+
++++   Doorontwikkeling:
+      Omdat de bovenstaande structuur overal aanwezig is, is het omzetten naar react, angular,
+      blazor of vue niet zo moeilijk als je die frameworks een beetje kent. 
+
 
