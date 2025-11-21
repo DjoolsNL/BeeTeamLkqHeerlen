@@ -22,19 +22,14 @@
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0">
             <link rel="stylesheet" href="style.css">
-            <title>PLACEHOLDER</title>
+            <title>PLACEHOLDER TITLE OF BROWSER TAB</title>
          </head>
 
          <body>
 
             <header>
                <nav>
-                  <a href="../index.html">Home</a> -
-                  <a href="../index.html#Leerbedrijf">Leerbedrijf</a> -
-                  <a href="../index.html#Educatief">Educatief</a> -
-                  <a href="../index.html#Baanperspectief">Baanperspectief</a> -
-                  <a href="../index.html#Portfolio">Portfolio</a> -
-                  <a href="../index.html#Templates">Templates</a>
+                  PLACEHOLDER CONTENT
                </nav>
             </header>
 
