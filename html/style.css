@@ -35,6 +35,7 @@
       footer {
          padding-left: 2vw;
          padding-right: 2vw;
+         padding-top: 5vw;
          font-size: 1.2vw;  
       }
 
@@ -92,7 +93,7 @@
          margin-left: -65px;
       }
 
-      .quicklinks:hover .tooltiptext {
+      .imagelinks:hover .tooltiptext {
          visibility: visible;
       }
 
@@ -114,7 +115,7 @@
          border-bottom: 2vw solid lightsteelblue;
       }
 
-      .quicklinks {
+      .imagelinks {
          margin-bottom: 0px;
          border: 1px solid gray;
          border-radius: 2px;
@@ -131,7 +132,8 @@
       .textlinks a:hover {
          text-decoration: underline;
       }
-      .introduction {
+
+      .inleiding {
          background-color: rgb(227, 238, 245);
          padding: 15px 40px 15px;
       }
@@ -149,13 +151,13 @@
          width: 50vw; height:33vw
       }
 
-      .linkbox-container-unwrapped {
+      .linkbox-container-nowrap {
             display: flex; 
             justify-content:center;
             flex-wrap: wrap;
       }   
 
-      .linkbox-container-wrapped {
+      .linkbox-container-wrap {
             display: flex; 
             justify-content:center;
             flex-wrap: nowrap;

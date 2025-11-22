@@ -35,7 +35,7 @@
 
             <main>
                <h1>PLACEHOLDER TITEL</h1>
-               <div class="introduction">
+               <div class="inleiding">
                   PLACEHOLDER CONTENT      
                </div>
 
@@ -54,8 +54,44 @@
 
          </html>
 
-+++   Doorontwikkeling:
-      Omdat de bovenstaande structuur overal aanwezig is, is het omzetten naar react, angular,
-      blazor of vue niet zo moeilijk als je die frameworks een beetje kent. 
++++   Verdere bouwstenen:
+      <div class="hoofdstuk" id="PLACEHOLDER"> optionele elementen:
+      
+         <div class="inleiding">
+            optionele elementen: <p> <ol> <ul> <img> <object>     
+         </div>
+         <p>
+         <ul>
+         <ol>
+         <div>
+
+         <div class="linkbox-container-wrap">
+            <div class="linkbox">
+               <p class="imagelinks">
+                  <a><img /></a>
+               </p>
+               <p class="textlinks">
+                  <a>PLACEHOLDER</a>
+               </p>
+            </div>
+         </div>
+         <div class="linkbox-container-nowrap">
+            <div class="linkbox">
+               <p class="imagelinks">
+                  <a><img /></a>
+               </p>
+               <p class="textlinks">
+                  <a>PLACEHOLDER</a>
+               </p>
+            </div>
+         </div> 
+
+         <object />
+         <iframe />
+         <img alt="" />
+      </div>   
+
++++   Voor wie een eigen site wil bouwen:
+      gebruik de template zoals je wil, inclusief alle content.
 
 
